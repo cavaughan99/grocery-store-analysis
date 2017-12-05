@@ -8,7 +8,7 @@ library("car")
 library("ggplot2")
 
 #set working directory
-setwd("/Users/cavaughan99/Documents/work")
+setwd("/Users/...")
 
 #call up dataframe
 phresh <- read.csv("phreshdata.csv")
